@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Victor_Vallecillos_UF1_ACT6</string>
+    <string name="buttonText">Mostrar valor introduït en un toast</string>
+    <string name="editTextText">Introdueix un text</string>
 </resources>
